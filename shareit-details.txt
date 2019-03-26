@@ -1,0 +1,9 @@
+db - shareitt_dirty_clean
+username - shareitt_dirtyc
+password - dirtyclean!@123
+
+//new
+db - shareitt_dirtyclean
+username - shareitt_dclean
+password - dclean!@123
+

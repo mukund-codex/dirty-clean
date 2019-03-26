@@ -1,0 +1,829 @@
+@media (min-width: 320px) and (max-width: 359px){
+	.caption-content {
+	    transform: translate(-10%, -50%);
+	    left: 20%;
+	}
+	.tittle-cus {
+	    width: 100%;
+	    float: left;
+	}
+	.about-content {
+	    padding-top: 0;
+	}
+	.about-content h1{
+		margin-top: 0;
+		font-size: 25px;
+	}
+	.about-con-rgt {
+	    width: 100%;
+	    margin-top: 15px;
+	}
+	.wel-text .about-image:before {
+	    right: -16px;
+    	width: 100%;
+	}
+	.client_slide_image:before {
+	    right: -107px;
+	}
+	.process h2 {
+	    font-size: 20px;
+	}
+	a.navbar-brand.navbar-brand-cus img {
+	    width: 230px;
+	}
+	.header-text-width a {
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.header-text-width a.call {
+	    background-size: 19px;
+	}
+	.header-text-width a.call:hover {
+	    background-position: 10px -19px;
+	}
+	.header-text-width a.mail {
+	    background-size: 19px;
+	}
+	.header-text-width a.mail:hover {
+	    background-position: 10px -17px;
+	}
+	.header-text-width a.location {
+	    background-size: 19px;
+	}
+	.header-text-width a.location:hover {
+	    background-position: 10px -19px;
+	}
+	.top-line-menu {
+	    margin: 0;
+    	border: 0;
+	}
+	.menu-cus>li>a {
+	    padding: 10px 15px;
+	}
+	.caption-content h2{
+		font-size: 20px;
+	}
+	.caption-content h3{
+		font-size: 14px;
+	}
+	.abt-video-div{
+		text-align: center;
+	}
+	.about-image {
+	    margin: 25px auto 0;
+	    display: inline-block;
+	    width: 100%;
+	}
+	.sec-padding {
+	    padding: 150px 0 70px;
+	}
+	.client_width .row:nth-child(odd) img {
+	    margin-top: 20px;
+	}
+	.header-text-width {
+	    width: 100%;
+	}
+	.fix_nav .header-text-width{
+		display: none !important;
+	}
+	
+	.navbar-toggle{
+		margin: 0;
+	}
+	span.icon-bar {
+	    background: rgba(255, 255, 255, 0.7);
+	    margin: 6px 0;
+	}
+	.navbar-brand-cus {
+	    padding: 4px 15px 0px 0;
+	    height: auto;
+	}
+	header.header-fix {
+	    background: #000;
+	    z-index: 9999999;
+	    margin-bottom: 0;
+	    position: relative;
+	}
+	header.header-fix.fix_nav {
+		padding: 10px 0;  
+		position: fixed;
+	}
+	.header_nav {
+	    margin-bottom: 0;
+	    border: 0;
+	}
+	.container.wash_parent .owl-carousel .owl-stage-outer {
+	    margin-top: -60px;
+	}
+	.home-banner-slider .slick-dots {
+	    position: absolute;
+	    bottom: auto;
+	    display: inline-block;
+	    width: auto;
+	    padding: 0;
+	    margin: 0;
+	    list-style: none;
+	    text-align: center;
+	    padding-left: 30px;
+	    transform: rotate(90deg);
+	    top: 21%;
+	    right: -43px;
+	    left: auto;
+	}
+	.about-image img{
+		width: 100%;
+	}
+	.how-we-do h1 {
+	    font-size: 25px;
+	}
+	.testimonial h1 {
+	    font-size: 25px;
+	    line-height: 35px;
+	}
+	.wel-text h2{
+		left: 0;
+	}
+	.vehicle-imgs {
+	    margin-bottom: 20px;
+	}
+	.VehicleType h3{
+		margin-top: 0;
+	}
+	.title1 {
+		font-size: 25px;
+	}
+	.package{
+		margin-top: 25px;
+	}
+	.get-serv-div {
+	    margin-bottom: 20px;
+	}
+	.title3 {
+	    font-size: 20px;
+	}
+	.get-services-info h4 span {
+	    font-size: 13px;
+	}
+	.book-now {
+	    font-size: 15px;
+	    line-height: 35px;
+	}
+	.get-services-info {
+	    padding: 0 30px;
+	}
+	.get-services-info p, .get-services-info p a {
+	    margin: 6px 0 0;
+	}
+	.get-serv-div img {
+	    min-height: 135px;
+	}
+	.details-form {
+	    width: 100%;
+	}
+	.booking-summary {
+	    width: 100%;
+	}
+	.booking-summary-total {
+	    width: 100%;
+	    padding: 0 0;
+	}
+	.personal-details {
+	    padding: 20px;
+	}
+	.width10 {
+	    width: 20%;
+	}
+	.width90 {
+	    width: 80%;
+	}
+	.personal-details .paddingr0{
+		padding-left: 0
+	}
+	.personal-details .paddingl0{
+		padding-right: 0;
+	}
+	.title5 {
+	    font-size: 25px;
+	}
+	.booking-details {
+	    padding: 20px;
+	}
+	.faq-content .panel-title {
+	    font-size: 20px;
+	    padding: 10px 10px 0 20px;
+	}
+	.faq-content .panel-content {
+	    font-size: 15px;
+	    margin: 0 13px;
+	}
+	.review-text {
+	    width: 100%;
+    	margin-top: 15px;
+	}
+	.reviews-2-slider{
+		width: 74%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.gallery-review-slider .a-btn{
+		margin-top: 30px;
+	    margin-bottom: 35px;
+	    padding: 0 15px;
+	}
+	.gallery-review-sec h1 {
+	    font-size: 23px;
+	}
+	.contact-form {
+	    padding-right: 0;
+	}
+	.contact-form {
+	    padding-right: 0;
+	    border-bottom: 1px solid #8e8e8e57;
+	    margin-bottom: 30px;
+	    padding-bottom: 15px;
+	}
+	.contact-us-sec .a-btn.c-book-btn {
+	    padding: 0 15px;
+	}
+	.form-group .error {
+	    font-size: 10px;
+	}
+
+}
+@media (min-width: 360px) and (max-width: 767px){
+
+	.wel-text h2{
+		left: 0;
+	}
+
+	.caption-content {
+	    transform: translate(-10%, -50%);
+	    left: 20%;
+	}
+	.tittle-cus {
+	    width: 100%;
+	    float: left;
+	}
+	.about-content {
+	    padding-top: 0;
+	}
+	.about-content h1{
+		margin-top: 0;
+		font-size: 25px;
+	}
+	.about-con-rgt {
+	    width: 100%;
+	    margin-top: 15px;
+	}
+	.wel-text .about-image:before {
+	    right: -16px;
+    	width: 100%;
+	}
+	.client_slide_image:before {
+	    right: -92px;
+	}
+	.process h2 {
+	    font-size: 20px;
+	}
+	a.navbar-brand.navbar-brand-cus img {
+	    width: 250px;
+	}
+	.header-text-width a {
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.header-text-width a.call {
+	    background-size: 19px;
+	}
+	.header-text-width a.call:hover {
+	    background-position: 10px -19px;
+	}
+	.header-text-width a.mail {
+	    background-size: 19px;
+	}
+	.header-text-width a.mail:hover {
+	    background-position: 10px -17px;
+	}
+	.header-text-width a.location {
+	    background-size: 19px;
+	}
+	.header-text-width a.location:hover {
+	    background-position: 10px -19px;
+	}
+	.top-line-menu {
+	    margin: 0;
+    	border: 0;
+	}
+	.menu-cus>li>a {
+	    padding: 10px 15px;
+	}
+	.caption-content h2{
+		font-size: 20px;
+	}
+	.caption-content h3{
+		font-size: 14px;
+	}
+	.abt-video-div{
+		text-align: center;
+	}
+	.about-image {
+	    margin: 25px auto 0;
+	    display: inline-block;
+	    width: 100%;
+	}
+	.sec-padding {
+	    padding: 150px 0 70px;
+	}
+	.client_width .row:nth-child(odd) img {
+	    margin-top: 20px;
+	}
+	.header-text-width {
+	    width: 100%;
+	}
+	.fix_nav .header-text-width{
+		display: none !important;
+	}
+	
+	.navbar-toggle{
+		margin: 0;
+	}
+	span.icon-bar {
+	    background: rgba(255, 255, 255, 0.7);
+	    margin: 6px 0;
+	}
+	.navbar-brand-cus {
+	    padding: 4px 15px 0px 0;
+	    height: auto;
+	}
+	header.header-fix {
+	    background: #000;
+	    z-index: 9999999;
+	    margin-bottom: 0;
+	    position: relative;
+	}
+	header.header-fix.fix_nav {
+		padding: 10px 0;  
+		position: fixed;
+	}
+	.header_nav {
+	    margin-bottom: 0;
+	    border: 0;
+	}
+	.container.wash_parent .owl-carousel .owl-stage-outer {
+	    margin-top: -60px;
+	}
+	.home-banner-slider .slick-dots {
+	    position: absolute;
+	    bottom: auto;
+	    display: inline-block;
+	    width: auto;
+	    padding: 0;
+	    margin: 0;
+	    list-style: none;
+	    text-align: center;
+	    padding-left: 30px;
+	    transform: rotate(90deg);
+	    top: 21%;
+	    right: -43px;
+	    left: auto;
+	}
+	.about-image img{
+		width: 100%;
+	}
+	.how-we-do h1 {
+	    font-size: 25px;
+	}
+	.testimonial h1 {
+	    font-size: 25px;
+	    line-height: 35px;
+	}
+	.vehicle-imgs {
+	    margin-bottom: 20px;
+	}
+	.VehicleType h3{
+		margin-top: 0;
+	}
+	.title1 {
+		font-size: 25px;
+	}
+	.package{
+		margin-top: 25px;
+	}
+	.get-serv-div {
+	    margin-bottom: 20px;
+	}
+	.title3 {
+	    font-size: 20px;
+	}
+	.get-services-info h4 span {
+	    font-size: 13px;
+	}
+	.book-now {
+	    font-size: 15px;
+	    line-height: 35px;
+	}
+	.get-services-info {
+	    padding: 0 30px;
+	}
+	.get-services-info p, .get-services-info p a {
+	    margin: 6px 0 0;
+	}
+	.get-serv-div img {
+	    min-height: 135px;
+	}
+	.details-form {
+	    width: 100%;
+	}
+	.booking-summary {
+	    width: 100%;
+	}
+	.booking-summary-total {
+	    width: 100%;
+	    padding: 0 0;
+	}
+	.personal-details {
+	    padding: 20px;
+	}
+	.width10 {
+	    width: 20%;
+	}
+	.width90 {
+	    width: 80%;
+	}
+	.personal-details .paddingr0{
+		padding-left: 0
+	}
+	.personal-details .paddingl0{
+		padding-right: 0;
+	}
+	.booking-details {
+	    padding: 20px;
+	}
+	.title5 {
+	    font-size: 25px;
+	}
+	.faq-content .panel-title {
+	    font-size: 20px;
+	    padding: 10px 10px 0 20px;
+	}
+	.faq-content .panel-content {
+	    font-size: 15px;
+	    margin: 0 13px;
+	}
+	.review-text {
+	    width: 100%;
+    	margin-top: 15px;
+	}
+	.reviews-2-slider{
+		width: 74%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.gallery-review-slider .a-btn{
+		margin-top: 30px;
+	    margin-bottom: 35px;
+	}
+	.gallery-review-sec h1 {
+	    font-size: 23px;
+	}
+	.contact-form {
+	    padding-right: 0;
+	    border-bottom: 1px solid #8e8e8e57;
+	    margin-bottom: 30px;
+	    padding-bottom: 15px;
+	}
+	.form-group .error {
+	    font-size: 12px;
+	}
+}
+@media (min-width: 768px) and (max-width: 799px){
+	.caption-content {
+	    transform: translate(-10%, -50%);
+	    left: 20%;
+	}
+	.tittle-cus {
+	    width: 100%;
+	    float: left;
+	}
+	.about-content {
+	    padding-top: 0;
+	}
+	.about-content h1{
+		margin-top: 0;
+	}
+	.about-con-rgt {
+	    width: 100%;
+	    margin-top: 15px;
+	}
+	.wel-text .about-image:before {
+	    right: -16px;
+    	width: 100%;
+	}
+	.client_slide_image:before {
+	    right: -25px;
+	}
+	.process h2 {
+	    font-size: 20px;
+	}
+	a.navbar-brand.navbar-brand-cus img {
+	    width: 250px;
+	}
+	.header-text-width a {
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.header-text-width a.call {
+	    background-size: 19px;
+	}
+	.header-text-width a.call:hover {
+	    background-position: 10px -19px;
+	}
+	.header-text-width a.mail {
+	    background-size: 19px;
+	}
+	.header-text-width a.mail:hover {
+	    background-position: 10px -17px;
+	}
+	.header-text-width a.location {
+	    background-size: 19px;
+	}
+	.header-text-width a.location:hover {
+	    background-position: 10px -19px;
+	}
+	.top-line-menu {
+	    margin-top: 5px;
+	}
+	.menu-cus>li>a {
+	    padding: 10px 15px;
+	}
+	.caption-content h2{
+		font-size: 30px;
+	}
+	.caption-content h3{
+		font-size: 16px;
+	}
+	.abt-video-div{
+		text-align: center;
+	}
+	.about-image {
+	    margin: 25px auto 0;
+	    display: inline-block;
+	}
+	.sec-padding {
+	    padding: 150px 0 70px;
+	}
+	.client_width .row:nth-child(odd) img {
+	    margin-top: 20px;
+	}
+	.about-us-img img {
+	    width: 100%;
+	    max-width: 400px;
+	    margin: 0 auto;
+	    display: block;
+	}
+	.package {
+	    margin-bottom: 25px;
+	}
+	.title3 {
+	    font-size: 20px;
+	}
+	.get-services-info h4 span {
+	    font-size: 13px;
+	}
+	.book-now {
+	    font-size: 15px;
+	    line-height: 35px;
+	}
+	.get-services-info {
+	    padding: 0 30px;
+	}
+	.get-services-info p, .get-services-info p a {
+	    margin: 6px 0 0;
+	}
+	.get-serv-div img {
+	    min-height: 135px;
+	}
+	.details-form {
+	    width: 100%;
+	}
+	.width10 {
+	    width: 20%;
+	}
+	.width90 {
+	    width: 80%;
+	}
+	.booking-summary {
+	    width: 100%;
+	}
+	.booking-summary-total {
+	    width: 100%;
+	}
+	.booking-details {
+	    padding: 20px;
+	}
+	.review-text {
+	    width: 70%;
+	}
+	.reviews-2-slider{
+		width: 89%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.gallery-review-slider .a-btn{
+		margin-top: 30px;
+	    margin-bottom: 35px;
+	}
+}
+@media (min-width: 800px) and (max-width: 991px){
+	.caption-content {
+	    transform: translate(-10%, -50%);
+	    left: 20%;
+	}
+	.tittle-cus {
+	    width: 100%;
+	    float: left;
+	}
+	.about-content {
+	    padding-top: 0;
+	}
+	.about-content h1{
+		margin-top: 0;
+	}
+	.about-con-rgt {
+	    width: 100%;
+	    margin-top: 15px;
+	}
+	.wel-text .about-image:before {
+	    right: -16px;
+    	width: 100%;
+	}
+	.client_slide_image:before {
+	    right: -25px;
+	}
+	.process h2 {
+	    font-size: 20px;
+	}
+	a.navbar-brand.navbar-brand-cus img {
+	    width: 250px;
+	}
+	.header-text-width a {
+	    width: 40px;
+	    height: 40px;
+	    line-height: 40px;
+	}
+	.header-text-width a.call {
+	    background-size: 19px;
+	}
+	.header-text-width a.call:hover {
+	    background-position: 10px -19px;
+	}
+	.header-text-width a.mail {
+	    background-size: 19px;
+	}
+	.header-text-width a.mail:hover {
+	    background-position: 10px -17px;
+	}
+	.header-text-width a.location {
+	    background-size: 19px;
+	}
+	.header-text-width a.location:hover {
+	    background-position: 10px -19px;
+	}
+	.top-line-menu {
+	    margin-top: 5px;
+	}
+	.menu-cus>li>a {
+	    padding: 10px 15px;
+	}
+	.caption-content h2{
+		font-size: 30px;
+	}
+	.caption-content h3{
+		font-size: 16px;
+	}
+	.abt-video-div{
+		text-align: center;
+	}
+	.about-image {
+	    margin: 25px auto 0;
+	    display: inline-block;
+	}
+	.sec-padding {
+	    padding: 150px 0 70px;
+	}
+	.client_width .row:nth-child(odd) img {
+	    margin-top: 20px;
+	}
+	.about-us-img img {
+	    width: 100%;
+	    max-width: 400px;
+	    margin: 0 auto;
+	    display: block;
+	}
+	.package {
+	    margin-bottom: 25px;
+	}
+	.title3 {
+	    font-size: 20px;
+	}
+	.get-services-info h4 span {
+	    font-size: 13px;
+	}
+	.book-now {
+	    font-size: 15px;
+	    line-height: 35px;
+	}
+	.get-services-info {
+	    padding: 0 30px;
+	}
+	.get-services-info p, .get-services-info p a {
+	    margin: 6px 0 0;
+	}
+	.get-serv-div img {
+	    min-height: 135px;
+	}
+	.details-form {
+	    width: 100%;
+	}
+	.width10 {
+	    width: 20%;
+	}
+	.width90 {
+	    width: 80%;
+	}
+	.booking-summary {
+	    width: 100%;
+	}
+	.booking-summary-total {
+	    width: 100%;
+	}
+	.booking-summary-total {
+	    width: 100%;
+	}
+	.review-text {
+	    width: 70%;
+	}
+	.reviews-2-slider{
+		width: 95%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+	.gallery-review-slider .a-btn{
+		margin-top: 30px;
+	    margin-bottom: 35px;
+	}
+}
+@media (min-width: 992px) and (max-width: 1279px){
+
+	.caption-content {
+	    transform: translate(-10%, -50%);
+	    left: 20%;
+	}
+	.tittle-cus {
+	    width: 100%;
+	    float: left;
+	}
+	.about-content {
+	    padding-top: 0;
+	}
+	.about-content h1{
+		margin-top: 0;
+	}
+	.about-con-rgt {
+	    width: 100%;
+	    margin-top: 15px;
+	}
+	.wel-text .about-image:before {
+	    right: -40px;
+	}
+	.client_slide_image:before {
+	    right: -25px;
+	}
+	.process h2 {
+	    font-size: 20px;
+	}
+
+	.package-title h2 {
+	    font-size: 15px;
+	}
+	.p_price {
+	    font-size: 22px;
+	}
+	.details-form{
+		width: 90%;
+	}
+	.review-text {
+	    width: 80%;
+	}
+	.reviews-2-slider{
+		width: 95%;
+	    margin-left: auto;
+	    margin-right: auto;
+	}
+}
+@media (min-width: 1280px) and (max-width: 1365px){
+	
+}
